@@ -53,7 +53,7 @@ http://localhost:3000/games
 * Repeat until someone wins.
 
 ## Technology
-* Ruby 2.5.0
+* Ruby 2.5.1
 * Rails 5
 * HTML
 * CSS
